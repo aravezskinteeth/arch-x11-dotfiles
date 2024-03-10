@@ -517,7 +517,7 @@ After installing X and i3 create a file **.xinitrc** in your home directory with
 exec i3
 ```
 
-This way you can start the X server with the command `startx`.
+Log out of `<yourusername` with the command `exit`. Now you are logged in as root. This way you can start the X server with the command `startx`.
 
 ### Drivers
 
