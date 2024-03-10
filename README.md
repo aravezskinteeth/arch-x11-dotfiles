@@ -590,7 +590,7 @@ Some additional stuff for rofi:
 ```
 $ sudo pacman -S rofi-emoji rofi-calc
 ```
-⚠️ ** Rofi emoji is not available for ARM architecture **
+⚠️ **Rofi emoji is not available for ARM architecture.**
 
 ### Status Bar
 
